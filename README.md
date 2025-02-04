@@ -1,5 +1,11 @@
 # INTRODUÇÃO JAVA SCRIPT
 
+## Atividades para aprensizado 
+* Variáveis
+* Chrome
+* Prompt
+* Functions
+
 ### Linguagem
 * não é linguagem compilada
 * interpretada 
@@ -22,5 +28,5 @@ As palavras reservadas em Java são termos essenciais que têm um significado es
 
 
 ## ATIVIDADE CALCULADORA
-Na atividade foi feito uma calculadora usando alguns comando do Java Script, além do html e css para deixarmos a página estilizada.
+Na atividade foi feito uma calculadora para aplicar os conceitos estudados, além do html e css que tembém foi utilizados para melhorar a ativiade.
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/7c9cefea-c58d-400a-affa-f409cc183e10" />

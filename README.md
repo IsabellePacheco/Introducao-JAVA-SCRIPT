@@ -21,5 +21,6 @@ Função é um bloco que executa uma operação, quando é chamada
 As palavras reservadas em Java são termos essenciais que têm um significado especial dentro da linguagem. Eles são utilizados para definir a estrutura e o controle de fluxo dos programas.
 
 
-### ATIVIDADE CALCULADORA
+## ATIVIDADE CALCULADORA
+Na atividade tivemos que fazer uma calculadora usando alguns comando do Java Script, além do html e css para deixarmos a página estilizada.
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/7c9cefea-c58d-400a-affa-f409cc183e10" />

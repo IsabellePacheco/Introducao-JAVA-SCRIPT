@@ -17,7 +17,7 @@
 Função é um bloco que executa uma operação, quando é chamada
 
 
-## Palavras reservadas no JV
+## Palavras reservadas JAVA SCRIPT
 As palavras reservadas em Java são termos essenciais que têm um significado especial dentro da linguagem. Eles são utilizados para definir a estrutura e o controle de fluxo dos programas.
 
 
